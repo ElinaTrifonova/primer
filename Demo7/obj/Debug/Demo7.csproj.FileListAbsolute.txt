@@ -1,0 +1,48 @@
+C:\Users\Буба\source\repos\Demo7\Demo7\bin\Debug\Demo7.exe.config
+C:\Users\Буба\source\repos\Demo7\Demo7\bin\Debug\Demo7.exe
+C:\Users\Буба\source\repos\Demo7\Demo7\bin\Debug\Demo7.pdb
+C:\Users\Буба\source\repos\Demo7\Demo7\obj\Debug\MainWindow.g.cs
+C:\Users\Буба\source\repos\Demo7\Demo7\obj\Debug\App.g.cs
+C:\Users\Буба\source\repos\Demo7\Demo7\obj\Debug\Demo7_MarkupCompile.cache
+C:\Users\Буба\source\repos\Demo7\Demo7\obj\Debug\Demo7_MarkupCompile.lref
+C:\Users\Буба\source\repos\Demo7\Demo7\obj\Debug\MainWindow.baml
+C:\Users\Буба\source\repos\Demo7\Demo7\obj\Debug\Demo7.g.resources
+C:\Users\Буба\source\repos\Demo7\Demo7\obj\Debug\Demo7.Properties.Resources.resources
+C:\Users\Буба\source\repos\Demo7\Demo7\obj\Debug\Demo7.csproj.GenerateResource.cache
+C:\Users\Буба\source\repos\Demo7\Demo7\obj\Debug\Demo7.csproj.CoreCompileInputs.cache
+C:\Users\Буба\source\repos\Demo7\Demo7\obj\Debug\Demo7.exe
+C:\Users\Буба\source\repos\Demo7\Demo7\obj\Debug\Demo7.pdb
+C:\Users\Буба\source\repos\Demo7\Demo7\bin\Debug\EntityFramework.dll
+C:\Users\Буба\source\repos\Demo7\Demo7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Буба\source\repos\Demo7\Demo7\bin\Debug\EntityFramework.xml
+C:\Users\Буба\source\repos\Demo7\Demo7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Буба\source\repos\Demo7\Demo7\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Буба\source\repos\Demo7\Demo7\obj\Debug\Demo7_Content.g.cs
+C:\Users\Буба\source\repos\Demo7\Demo7\obj\Debug\Demo7.csproj.CopyComplete
+C:\Users\Буба\source\repos\Demo7\Demo7\obj\Debug\Demo7.csproj.AssemblyReference.cache
+C:\Users\Буба\source\repos\Demo7\Demo7\obj\Debug\Spisoc.g.cs
+C:\Users\Буба\source\repos\Demo7\Demo7\obj\Debug\Spisoc.baml
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\bin\Debug\Demo7.exe.config
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\bin\Debug\Demo7.exe
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\bin\Debug\Demo7.pdb
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\bin\Debug\EntityFramework.dll
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\bin\Debug\EntityFramework.xml
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\obj\Debug\Demo7.csproj.AssemblyReference.cache
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\obj\Debug\MainWindow.g.cs
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\obj\Debug\Spisoc.g.cs
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\obj\Debug\App.g.cs
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\obj\Debug\Demo7_Content.g.cs
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\obj\Debug\Demo7_MarkupCompile.cache
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\obj\Debug\Demo7_MarkupCompile.lref
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\obj\Debug\MainWindow.baml
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\obj\Debug\Spisoc.baml
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\obj\Debug\Demo7.g.resources
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\obj\Debug\Demo7.Properties.Resources.resources
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\obj\Debug\Demo7.csproj.GenerateResource.cache
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\obj\Debug\Demo7.csproj.CoreCompileInputs.cache
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\obj\Debug\Demo7.csproj.CopyComplete
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\obj\Debug\Demo7.exe
+C:\Users\Буба\Desktop\Рабочая Не изменять\Demo7-4\Demo7\obj\Debug\Demo7.pdb

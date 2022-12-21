@@ -1,0 +1,86 @@
+﻿<Window x:Class="Demo7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Demo7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            
+            <ColumnDefinition Width="379*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="56*"/>
+            <RowDefinition Height="307*"/>
+            <RowDefinition Height="57*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal" Grid.Row="2">
+            <ComboBox x:Name="cmbSort" Height="57" Width="150" VerticalAlignment="Top" Text="Сортировка" SelectionChanged="cmbSort_SelectionChanged">
+                <TextBlock>Возрастание</TextBlock>
+                <TextBlock>Убывание</TextBlock>                
+            </ComboBox>
+            <ComboBox x:Name="cmbFiltr" Height="57" Width="150" VerticalAlignment="Top"  Text="Фильтр" SelectionChanged="cmbFiltr_SelectionChanged">
+                <TextBlock Text="Все диапазоны"></TextBlock>
+                <TextBlock Text="0-3"></TextBlock>
+                <TextBlock Text="4-6"></TextBlock>
+                <TextBlock Text="6-9"></TextBlock>
+            </ComboBox>
+            <TextBox x:Name="txtFind" Height="57" Width="150" TextChanged="txtFind_TextChanged"></TextBox>
+        </StackPanel>
+        
+         
+        
+        <Button  x:Name="btnLook" Content="Look" Grid.Row="0" Click="btnLook_Click" Grid.ColumnSpan="2" Margin="0,0,-0.4,0"></Button>
+        <ListView x:Name="lstw" Grid.Row="1" FontSize="20" Grid.ColumnSpan="2" Margin="0,0,-0.4,0.2">
+            <ListView.Resources>
+                <Style TargetType="{x:Type ListViewItem}">
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Discount}" Value="1">
+                            <Setter Property="Background" Value="Red"></Setter>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </ListView.Resources>
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn>
+                        <GridViewColumn.CellTemplate>
+                            <DataTemplate >
+
+                                <Border BorderBrush="Black" BorderThickness="2" >
+                                    <Grid>
+
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="170"></ColumnDefinition>
+                                            <ColumnDefinition Width="170"></ColumnDefinition>
+                                            <ColumnDefinition Width="170"></ColumnDefinition>
+                                        </Grid.ColumnDefinitions>
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition x:Name="str"></RowDefinition>
+                                        </Grid.RowDefinitions>
+                                        <TextBlock Text="{Binding ProductName}" Grid.Column="0"></TextBlock>
+                                        <Border BorderBrush="Black" BorderThickness="1" Grid.Column="1" Margin="10">
+                                            <StackPanel Orientation="Vertical">
+                                                <TextBlock  x:Name="txbDiscount"  Text="{Binding ProductDiscountAmount}"></TextBlock>
+                                                <TextBlock Text="{Binding ProductCost}"></TextBlock>
+
+                                            </StackPanel>
+                                        </Border>
+                                        <TextBlock Text="Stoimost" Grid.Column="2"></TextBlock>
+                                    </Grid>
+                                </Border>
+
+
+
+                            </DataTemplate>
+                        </GridViewColumn.CellTemplate>
+                    </GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+
+    </Grid>
+</Window>
